@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\String methods\bin\Debug\net6.0\String methods.exe
+C:\Users\LENOVO\Desktop\String methods\bin\Debug\net6.0\String methods.deps.json
+C:\Users\LENOVO\Desktop\String methods\bin\Debug\net6.0\String methods.runtimeconfig.json
+C:\Users\LENOVO\Desktop\String methods\bin\Debug\net6.0\String methods.dll
+C:\Users\LENOVO\Desktop\String methods\bin\Debug\net6.0\String methods.pdb
+C:\Users\LENOVO\Desktop\String methods\obj\Debug\net6.0\String methods.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\String methods\obj\Debug\net6.0\String methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\String methods\obj\Debug\net6.0\String methods.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\String methods\obj\Debug\net6.0\String methods.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\String methods\obj\Debug\net6.0\String methods.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\String methods\obj\Debug\net6.0\String methods.dll
+C:\Users\LENOVO\Desktop\String methods\obj\Debug\net6.0\refint\String methods.dll
+C:\Users\LENOVO\Desktop\String methods\obj\Debug\net6.0\String methods.pdb
+C:\Users\LENOVO\Desktop\String methods\obj\Debug\net6.0\String methods.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\String methods\obj\Debug\net6.0\ref\String methods.dll
